@@ -16,13 +16,13 @@
    width="526.17499"
    height="372.04999"
    xml:space="preserve"
-   sodipodi:docname="Rueckseite 2.pdf"
+   sodipodi:docname="Rueckseite 2.svg"
    inkscape:export-filename="/home/hej/c3pb/freifunk/PR/Postkarte/Rueckseite_600dpi.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"><metadata
      id="metadata3306"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs3304"><clipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath3316"><path
@@ -219,9 +219,9 @@
      inkscape:window-height="738"
      id="namedview3302"
      showgrid="false"
-     inkscape:zoom="1.2315689"
-     inkscape:cx="470.70994"
-     inkscape:cy="177.94004"
+     inkscape:zoom="1.7417014"
+     inkscape:cx="343.31488"
+     inkscape:cy="174.27378"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -333,6 +333,7 @@
 
 
 
+
 <text
    y="-235.55499"
    x="35.610199"
@@ -348,6 +349,7 @@
      x="35.610199"
      sodipodi:role="line"
      style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto">oder die Idee weitertragen und -entwickeln wollen (z.B. bei der Technik).</tspan></text>
+
 
 
 
@@ -372,6 +374,7 @@
      y="-202.55499"
      x="35.610199 44.00256 49.28706 53.359024 58.797791 66.985916 69.330292 74.684654 79.855392 83.986763 89.243752 94.961502 100.08274"
      style="font-size:11px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Oswald;-inkscape-font-specification:Oswald-Regular">Warum gerade Freifunk?</tspan></text>
+
 
 
 
@@ -413,6 +416,7 @@
 
 
 
+
 </g><g
        id="g4476"
        transform="translate(-11.2,8)"><path
@@ -437,6 +441,7 @@
 
 
 
+
 <text
    y="-125.155"
    x="35.610199"
@@ -446,7 +451,7 @@
      y="-125.155"
      x="35.610199"
      sodipodi:role="line"
-     style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto">Nein. Router mit der Freifunk Braunschweiger Software leiten den Internetverkehr durch von </tspan><tspan
+     style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto">Nein. Router mit der Braunschweiger Freifunk-Software leiten den Internetverkehr durch von </tspan><tspan
      y="-113.905"
      x="35.610199"
      sodipodi:role="line"
@@ -457,6 +462,7 @@
      sodipodi:role="line"
      style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
      id="tspan4354">Freifunk-Knotens für Externe gar nicht sichtbar wird.</tspan></text>
+
 
 
 
@@ -484,6 +490,7 @@
 
 
 
+
 </g><g
        id="g4485"
        transform="translate(-11.2,6.4)"><path
@@ -500,6 +507,7 @@
      id="tspan3492"
      sodipodi:role="line"
      style="font-size:11px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Oswald;-inkscape-font-specification:Oswald-Regular">Sind offene Netzwerke sicher für den Internetnutzer?</tspan></text>
+
 
 
 
@@ -541,6 +549,7 @@
 
 
 
+
 </g><g
        id="g4497"
        transform="translate(0,-1.6)"><text
@@ -553,6 +562,7 @@
      y="-266.94424"
      sodipodi:role="line"
      id="tspan238">eine lokale Initiative von</tspan></text>
+
 
 
 
